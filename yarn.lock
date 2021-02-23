@@ -5295,6 +5295,18 @@ globby@^6.1.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
+gojs-react@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/gojs-react/-/gojs-react-1.0.10.tgz#e9936999d6a5003cce56377d2204126deb0b1458"
+  integrity sha512-kHUNMo9U0WoaAGugIysxJRevvWL+D1Y+alhdaW2zkJrs3NG6PMzDHLTlIrUdaUe7816r4Fse8CvaURpShoJGgA==
+  dependencies:
+    tslib "^2.0.3"
+
+gojs@^2.1.35:
+  version "2.1.35"
+  resolved "https://registry.yarnpkg.com/gojs/-/gojs-2.1.35.tgz#b73a7d28f9d8742030f07abf3a71b8f201341fbe"
+  integrity sha512-CnTFz16afQ6CpSzyf/8Jygi3FCrCgiRvvi4Y+wHwXkQw44uqMMmREF3mDOiieL1uO15CfpodiOzjalu9FpIX4w==
+
 graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4:
   version "4.2.6"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz#ff040b2b0853b23c3d31027523706f1885d76bee"
